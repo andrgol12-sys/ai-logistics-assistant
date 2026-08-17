@@ -222,6 +222,38 @@ python main.py
 
 ---
 
+## 📸 Скриншоты работы
+
+### 📚 RAG — работа с базой знаний
+
+Бот использует проиндексированные документы компании для поиска информации и формирования ответов.
+
+<a href="docs/screenshots/rag-example.png">
+  <img src="docs/screenshots/rag-example.png" width="420" alt="Пример работы RAG">
+</a>
+
+---
+
+### 🎙️ Voice — голосовой режим
+
+Ассистент принимает голосовые запросы и может формировать голосовой ответ.
+
+<a href="docs/screenshots/voice-example.png">
+  <img src="docs/screenshots/voice-example.png" width="420" alt="Пример голосового режима">
+</a>
+
+---
+
+### 🖼️ Vision — анализ документов и изображений
+
+Ассистент анализирует изображение логистического документа, извлекает ключевые данные и формирует структурированный результат.
+
+<a href="docs/screenshots/vision-example.png">
+  <img src="docs/screenshots/vision-example.png" width="420" alt="Пример анализа изображения">
+</a>
+
+---
+
 ## 🚀 Используемые технологии
 
 * Python
