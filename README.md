@@ -2,7 +2,13 @@
 
 ### Multimodal AI Assistant for Transport & Refrigerated Logistics
 
+<p align="center">
+  <img src="docs/screenshots/ai-logistics-assistant.png" width="700" alt="AI Logistics Assistant">
+</p>
+
 AI-ассистент для транспортной компании с поддержкой **RAG**, **Telegram**, **Voice**, **Vision**, **STT/TTS** и интеллектуальной маршрутизацией запросов.
+
+Проект объединяет работу с текстом, голосом, изображениями и внутренней базой знаний компании в одном Telegram-ассистенте для решения практических задач транспортной логистики.
 
 ---
 
